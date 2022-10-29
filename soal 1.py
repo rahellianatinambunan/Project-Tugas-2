@@ -1,0 +1,5 @@
+print("Macam macam type data")
+print("1. Bool \nMenyatakan benar True yang bernilai 1, atau salah False")
+print("2. stringnMenyatakan karakter/kalimat bisa berupa huruf angka")
+print("3. integernMenyatakan bilangan bulat contoh:25 atau 1289")
+print("4. float menyatakan bilangan yang mempunyai koma contoh : 3.14 atau 0.91")
